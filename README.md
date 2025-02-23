@@ -104,4 +104,4 @@ pip install -r requirements.txt
 - Improve error handling and logging
 
 ## License
-This project is licensed under the **MIT License**.
+Made using IONOS AI Model Hub and DCD 
